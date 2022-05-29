@@ -1,0 +1,22 @@
+h=guidata(hObject)
+set(h.temperature1,'string', '30');
+set(h.temperature2,'string', '342');
+set(h.temperature3,'string', '1176');
+set(h.temperature4,'string', '560');
+set(h.temperature5,'string', '100');
+set(h.temperature6,'string', '529');
+set(h.temperature7,'string', '45');
+set(h.temperature8,'string', '40');
+set(h.temperature9,'string', '60');
+set(h.temperature10,'string', '27');
+set(h.temperature11,'string', '40');
+set(h.pressure6,'string', '100');
+set(h.pressure9,'string', '100');
+set(h.massflow,'string','200');
+set(h.massflowair,'string','30');
+set(h.massflowbahanbakar,'string','5');
+set(h.hcv,'string','50000');
+set(h.compratio,'string','15');
+set(h.turbingasratio,'string','10');
+set(h.pressureratioturbinuap,'string','1111');
+set(h.pressureratiopompa,'string','1500');
